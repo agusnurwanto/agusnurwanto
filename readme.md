@@ -2,19 +2,21 @@
 
 ----
 **Social Media & Blog:** 
+
 <a target="_blank" href="https://www.linkedin.com/in/agusnurwanto/">
-	https://www.linkedin.com/in/agusnurwanto/
   	<img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
+https://www.linkedin.com/in/agusnurwanto/
+
 <a target="_blank" href="https://www.facebook.com/agusnurwantomuslim/">
-	https://www.facebook.com/agusnurwantomuslim/
   	<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
 </a>
+https://www.facebook.com/agusnurwantomuslim/
+
 <a target="_blank" href="https://agusnurwantomuslim.blogspot.com/">
-	https://agusnurwantomuslim.blogspot.com/
   	<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" />
 </a>
-</br>
+https://agusnurwantomuslim.blogspot.com/
 
 ---- 
 Professionally driven with the ability to work under pressure on multiple concurrent projects and deliver quality work to deadlines.
