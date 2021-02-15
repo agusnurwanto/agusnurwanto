@@ -3,25 +3,10 @@
 ----
 **Social Media & Blog:** 
 
-<a target="_blank" href="https://www.linkedin.com/in/agusnurwanto/">
-  	<img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
-</a>
-https://www.linkedin.com/in/agusnurwanto/
-<br/>
-<a target="_blank" href="https://www.facebook.com/agusnurwantomuslim/">
-  	<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
-</a>
-https://www.facebook.com/agusnurwantomuslim/
-<br/>
-<a target="_blank" href="https://agusnurwantomuslim.blogspot.com/">
-  	<img align="left" alt="Blogspot" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" />
-</a>
-https://agusnurwantomuslim.blogspot.com/
-<br/>
-<a target="_blank" href="https://www.upwork.com/freelancers/~0145d06de31679b42a/">
-  	<img align="left" alt="Upwork" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Upwork.png" />
-</a>
-https://www.upwork.com/freelancers/~0145d06de31679b42a
+- <a target="_blank" href="https://www.linkedin.com/in/agusnurwanto/"><img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /></a> https://www.linkedin.com/in/agusnurwanto/
+- <a target="_blank" href="https://www.facebook.com/agusnurwantomuslim/"><img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" /></a> https://www.facebook.com/agusnurwantomuslim/
+- <a target="_blank" href="https://agusnurwantomuslim.blogspot.com/"><img align="left" alt="Blogspot" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" /></a> https://agusnurwantomuslim.blogspot.com/
+- <a target="_blank" href="https://www.upwork.com/freelancers/~0145d06de31679b42a/"><img align="left" alt="Upwork" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Upwork.png" /></a> https://www.upwork.com/freelancers/~0145d06de31679b42a
 
 ---- 
 Professionally driven with the ability to work under pressure on multiple concurrent projects and deliver quality work to deadlines.
