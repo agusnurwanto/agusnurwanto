@@ -57,3 +57,6 @@ I’m open to collaboration on:
 ----
 
 [![trophy](https://trophy.benkou.dev/?username=agusnurwanto&theme=light)](https://github-profile-trophy.vercel.app)
+
+----
+<img src="https://raw.githubusercontent.com/agusnurwanto/agusnurwanto/ecf029656806ae6042910f4fe6735a98045cd899/ChatGPT%20Image%2026%20Apr%202026%2C%2013.43.21.png">
