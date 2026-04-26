@@ -9,21 +9,32 @@
 - <a target="_blank" href="https://www.upwork.com/freelancers/~0145d06de31679b42a/"><img align="left" alt="Upwork" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Upwork.png" /></a> https://www.upwork.com/freelancers/~0145d06de31679b42a
 
 ---- 
-Professionally driven with the ability to work under pressure on multiple concurrent projects and deliver quality work to deadlines.
+I help organizations turn complex, manual processes into automated, scalable systems.
 
-Able to analytically solve problems, keep abreast of current best practices and quickly learn new skills.
+With 12+ years of experience in web development, data scraping, and system integration, I specialize in building solutions that process large-scale data, reduce operational workload, and improve efficiency.
 
-An effective team member with excellent technical and communicative skills, **over 6 years of experience** in web development and who can bring an
-enthusiastic approach to any working environment.
+I’ve worked with government institutions and businesses to develop systems used by 1000+ users and manage millions of data records.
 
-- Beck-End Language (PHP, Node JS)
-- Front-End (HTML, CSS, Javascript, Bootstrap, jQuery)
-- Database (MySQL, Postgresql, ElasticSearch, Redis)
-- Framework (Codeigneiter, Laravel)
-- CMS (Drupal, Wordpress)
-- API integration and many more.
+🔧 What I do best:
 
-I hope to give big contribution for better life. 
+High-volume web scraping (up to 1M+ data/day)
+Workflow automation (saving 40+ hours/week)
+API integration across multiple platforms
+Fullstack system development (custom & WordPress)
+
+🚀 Selected impact:
+
+Built government data scraping system handling massive daily data
+Developed dozens of web platforms & automation tools
+Reduced manual processes significantly through smart automation
+Delivered scalable systems with real operational impact
+
+I’m open to collaboration on:
+✔ Data scraping & automation projects
+✔ System integration & API development
+✔ Custom backend or fullstack solutions
+
+📩 Let’s connect if you want to scale your systems and eliminate repetitive work.
 
 
 
@@ -44,4 +55,5 @@ I hope to give big contribution for better life.
 </div>
 
 ----
-[![trophy](https://github-profile-trophy.vercel.app/?username=agusnurwanto)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://trophy.benkou.dev/?username=agusnurwanto&theme=light)](https://github-profile-trophy.vercel.app)
